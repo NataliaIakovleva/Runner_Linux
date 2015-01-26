@@ -70,4 +70,4 @@ cd target;
 
 pwd;
 
-java -cp QA-1.1-jar-with-dependencies.jar $MAIN_CLASS;
+java -cp QA-1.1-jar-with-dependencies.jar $MAIN_CLASS linux;
